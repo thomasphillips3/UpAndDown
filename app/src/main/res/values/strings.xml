@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Up And Down</string>
+    <string name="Plus">+</string>
+    <string name="Minus">-</string>
+    <string name="Clear">Clear</string>
+    <string name="zero">0</string>
 </resources>
